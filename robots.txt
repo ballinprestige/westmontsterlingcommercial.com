@@ -1,0 +1,5 @@
+# All crawlers welcome, including AI crawlers (S02 P7 step 5).
+User-agent: *
+Allow: /
+
+Sitemap: https://westmontsterlingcommercial.com/sitemap.xml
