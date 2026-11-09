@@ -1,4 +1,4 @@
-# All crawlers welcome, including AI crawlers (S02 P7 step 5).
+# All crawlers welcome, including AI crawlers.
 User-agent: *
 Allow: /
 
